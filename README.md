@@ -24,7 +24,7 @@ Additional software required to complete this project needed to be installed to 
 
 
 ## Third-Party Resources Used
-The following list identifies the third-party resources I used to complete this project.
+The following list identifies the third-party web resources I used to complete this project.
 
 ### APAHCE CONFIGURATION
 * [DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-configure-the-apache-web-server-on-an-ubuntu-or-debian-vps)

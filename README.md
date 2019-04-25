@@ -1,7 +1,7 @@
 # Udacity Linux Server Configuration Project
 This project involves configuration for a Linux Ubuntu box hosted on Amazon Lightsail.  This setup is configured to run an Apache 2.4.18 web server, and host a data-driven web application using Flask.  This project was completed as part of the **Udacity Full Stack Nanodegree Course**
 
-##Ubuntu Linux Instance Information:
+## Ubuntu Linux Instance Information:
 The Ubuntu instance is hosted on Amazon Lightsail.  Details about this instance follow.
 * Public IP Address `3.80.67.155`, SSH Port `2200`
 * URL to the Hosted Flask Application `http://3.80.67.155/myApp/`

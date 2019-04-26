@@ -1,5 +1,5 @@
 # Udacity Linux Server Configuration Project
-This project involves configuration for a Linux Ubuntu box hosted on Amazon Lightsail.  This setup is configured to run an Apache 2.4.18 web server, and host a data-driven web application using Flask.  This project was completed as part of the **Udacity Full Stack Nanodegree Course**
+This project involves configuration for a Linux Ubuntu box hosted on Amazon Lightsail.  This setup is configured to run an Apache 2.4.18 web server, and host a data-driven web application using Flask.  This project was completed as part of the **_Udacity Full Stack Nanodegree Course_**
 
 ## Ubuntu Linux Instance Information
 The Ubuntu instance is hosted on Amazon Lightsail.  Details about this instance follow.
@@ -34,12 +34,12 @@ The following list identifies the third-party web resources I used to complete t
 * [Daniel Abrao Github](https://github.com/jungleBadger/-nanodegree-linux-server-troubleshoot/blob/master/Blocked_SSH_port/README.md)
 * [be Groovie](https://be.groovie.org/2005/10/07/wsgi_and_wsgi_middleware_is_easy.html)
 
-### FLASK & POSTGRESQL
+### FLASK & POSTGRESQL CONFIGURATION
 * [Theodo Blog](https://blog.theodo.com/2017/03/developping-a-flask-web-app-with-a-postresql-database-making-all-the-possible-errors/)
 * [PostgreSQL 9.5](https://www.postgresql.org/docs/9.5/index.html)
 
 ## Created By
-* Created By: Jon Lunsford
+* Completed By: Jon Lunsford
 * Date: April 25, 2019
 * License: N/A
 

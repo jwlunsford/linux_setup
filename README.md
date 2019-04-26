@@ -16,6 +16,17 @@ Additional software required to complete this project needed to be installed to 
 * Pip
 * Psycopg2
 
+#### Additional Python Packages Installed
+These were installed by Pip using the requirements.txt file provided in the Github Repo for the Flask project at [Udacity_Projects](https://github.com/jwlunsford/udacity_projects.git).  These are required to run the "Tree Catalog" Flask Application.
+
+* Flask 1.0.2
+* Flask-Bootstrap 4.0.2
+* Flask-WTF 0.14.2
+* sqlalchemy 1.3.1
+* oauth2client 4.1.3
+* httplib2 0.12.1
+* requests 2.21.0
+
 ## Ubuntu Configuration Changes
 * Changed SSH Port from 22 to 2200 in the Lighsail Console
 * Configured UFW Firewall to only allow incomming connections for SSH, HTTP, and NTP

@@ -20,7 +20,7 @@ Additional software required to complete this project needed to be installed to 
 * Changed SSH Port from 22 to 2200 in the Lighsail Console
 * Configured UFW Firewall to only allow incomming connections for SSH, HTTP, and NTP
 * Added an additional Unix user with `sudo` access privileges
-* Added an alias to the **_~/.bashrc_** file: `alias python=python3` to use Python3 version instead of default 2.7 installed with Ubuntu.
+* Added an alias to the **_~/.bashrc_** file: `alias python=python3` to use Python3 version when typing commands instead of the default Python 2.7 installation provided by Ubuntu.
 
 
 ## Third-Party Resources Used
